@@ -39,7 +39,7 @@ A console-based Java application for managing employee records, including adding
 
 How Program Looks
 
-            ```bash
+           
               *******************************************
                        Workforce Manager
             *******************************************
@@ -52,7 +52,7 @@ How Program Looks
             Press 3 : To Remove an Employee
             Press 4 : To Update Employee Details
             Press 5 : To Exit the EMS Portal
-            ```
+           
 
    
 
